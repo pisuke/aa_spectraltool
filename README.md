@@ -76,7 +76,7 @@ Type "help", "copyright", "credits" or "license" for more information.
   ```
   This command will open a browser window similar to the one show below.
   
-  ![aa_spectraltool](https://drive.google.com/open?id=0B_c4v1gsPB4hVk1lSTRqaTVVTnM/preview)
+  ![aa_spectraltool](https://lh6.googleusercontent.com/c3UnmYNgtG50oKfbjHE-cPUeNCceIIpSWSZ3Gdt18GNc3HVmZGQFOBqI1ihlQTZPXdfdyTkWLn9YLlw=w2346-h1606-rw)
 
 
 ## Use
