@@ -31,7 +31,7 @@ These libraries must be installed before the next step. The easiest way to insta
 
 4. Click the Launch button in the Jupyter Notebook application tile shown inside Anaconda Navigator. A browser window similar to the one shown below should appear.
 
-![Jupyter Notebook](http://jupyter.readthedocs.io/en/latest/_images/tryjupyter_file.png)
+![Jupyter Notebook](https://lh4.googleusercontent.com/gm2oSwAoX6I5mO2m8rq1MyPI47Re7bMpC4KxofZOk5Crl7pIKhLPa9W7tdAzLKdG-urpze1Nupwx3pA=w2346-h1606-rw)
 
 ### Download and installation of Colour
 
