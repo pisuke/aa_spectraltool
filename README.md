@@ -61,7 +61,10 @@ Type "help", "copyright", "credits" or "license" for more information.
 2. Unzip the file in your preferred location. 
 
 3. Open a terminal window
- * On Windows, click on the start icon and type cmd
+ * On Windows, click on the start icon and type 
+ ```
+ cmd
+ ```
  * On MacOS X, launch the Terminal application
  
 4. Change directory in the terminal window to the folder where you have unzipped the aa_spectraltool files. 
@@ -74,11 +77,24 @@ Type "help", "copyright", "credits" or "license" for more information.
   ```
   jupyter-notebook
   ```
+  The terminal window should look similar to this on in MacOSX
+  ![Terminal window](https://lh5.googleusercontent.com/sltCP87oKZ_CjcTQMvOEjk4F5emDabUCGgq9RfrARnAjjemM68a6HRF_ecILVAVDij_1N9NeXvhjwoE=w2346-h1518-rw)
+  
   This command will open a browser window similar to the one show below.
   
   ![aa_spectraltool](https://lh6.googleusercontent.com/c3UnmYNgtG50oKfbjHE-cPUeNCceIIpSWSZ3Gdt18GNc3HVmZGQFOBqI1ihlQTZPXdfdyTkWLn9YLlw=w2346-h1606-rw)
 
 
 ## Use
+
+1. Copy the JPG picture files showing the light spectra into the folder where the aa_spectraltool files have been unzipped.
+2. Click on the light_spectrum.ipynb notebook name to launch the Jupyter Notebook.
+3. Follow the instructions included in the comments and marked as
+   ```
+   EDIT THIS: ...
+   ```
+4. Run each cell starting from the top and clicking on the play button in the toolbar.
+
+
 
 
