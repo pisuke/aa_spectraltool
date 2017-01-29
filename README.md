@@ -77,11 +77,10 @@ Type "help", "copyright", "credits" or "license" for more information.
   ```
   jupyter-notebook
   ```
-  The terminal window should look similar to this on in MacOSX
-![Terminal window](https://lh5.googleusercontent.com/sltCP87oKZ_CjcTQMvOEjk4F5emDabUCGgq9RfrARnAjjemM68a6HRF_ecILVAVDij_1N9NeXvhjwoE=w2346-h1518-rw)
+  The terminal window should look similar to this on in MacOSX 
+  ![Terminal](https://lh3.googleusercontent.com/TsWSm45NrNHXl0hN6wk2YS5u6KRJ7A2tA1893kgrwBT8mFMZ7fL_D-vqZEkDi14AHn5AMWZHqJ0xKNI=w2346-h1606-rw)
   
-  This command will open a browser window similar to the one show below.
-  
+  This command will open a browser window similar to the one show below. 
   ![aa_spectraltool](https://lh6.googleusercontent.com/c3UnmYNgtG50oKfbjHE-cPUeNCceIIpSWSZ3Gdt18GNc3HVmZGQFOBqI1ihlQTZPXdfdyTkWLn9YLlw=w2346-h1606-rw)
 
 
