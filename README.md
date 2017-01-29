@@ -78,7 +78,7 @@ Type "help", "copyright", "credits" or "license" for more information.
   jupyter-notebook
   ```
   The terminal window should look similar to this on in MacOSX
-  ![Terminal window](https://lh5.googleusercontent.com/sltCP87oKZ_CjcTQMvOEjk4F5emDabUCGgq9RfrARnAjjemM68a6HRF_ecILVAVDij_1N9NeXvhjwoE=w2346-h1518-rw)
+![Terminal window](https://lh5.googleusercontent.com/sltCP87oKZ_CjcTQMvOEjk4F5emDabUCGgq9RfrARnAjjemM68a6HRF_ecILVAVDij_1N9NeXvhjwoE=w2346-h1518-rw)
   
   This command will open a browser window similar to the one show below.
   
