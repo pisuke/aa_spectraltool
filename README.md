@@ -31,7 +31,7 @@ These libraries must be installed before the next step. The easiest way to insta
 
 4. Click the Launch button in the Jupyter Notebook application tile shown inside Anaconda Navigator. A browser window similar to the one shown below should appear.
 
-![Jupyter Notebook](https://lh4.googleusercontent.com/gm2oSwAoX6I5mO2m8rq1MyPI47Re7bMpC4KxofZOk5Crl7pIKhLPa9W7tdAzLKdG-urpze1Nupwx3pA=w2346-h1606-rw)
+![Jupyter Notebook](https://ts.aaschool.ac.uk/sites/default/files/01_jupyter.png)
 
 ### Download and installation of Colour
 
@@ -78,10 +78,10 @@ Type "help", "copyright", "credits" or "license" for more information.
   jupyter-notebook
   ```
   The terminal window should look similar to this on in MacOSX 
-  ![Terminal](https://lh3.googleusercontent.com/TsWSm45NrNHXl0hN6wk2YS5u6KRJ7A2tA1893kgrwBT8mFMZ7fL_D-vqZEkDi14AHn5AMWZHqJ0xKNI=w2346-h1606-rw)
+  ![Terminal](https://ts.aaschool.ac.uk/sites/default/files/03_jupyter_console.png)
   
   This command will open a browser window similar to the one show below. 
-  ![aa_spectraltool](https://lh6.googleusercontent.com/c3UnmYNgtG50oKfbjHE-cPUeNCceIIpSWSZ3Gdt18GNc3HVmZGQFOBqI1ihlQTZPXdfdyTkWLn9YLlw=w2346-h1606-rw)
+  ![aa_spectraltool](https://ts.aaschool.ac.uk/sites/default/files/02_jupyter_folder.png)
 
 
 ## Use
