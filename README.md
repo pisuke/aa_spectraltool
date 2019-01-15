@@ -21,7 +21,7 @@ These libraries must be installed before the next step. The easiest way to insta
 
 ### Download and installation of Anaconda
 
-1. Follow this link [https://www.continuum.io/downloads](https://www.continuum.io/downloads) to download the Anaconda distribution for your operating system. Download the Python 3.5 version.
+1. Follow this link [https://www.continuum.io/downloads](https://www.continuum.io/downloads) to download the Anaconda distribution for your operating system. Download the latest Python version (3.6 or higher).
 
 2. Once the installation package has been downloaded, execute it and follow the instructions.
 
