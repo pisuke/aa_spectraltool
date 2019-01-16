@@ -6,7 +6,7 @@ This is a [Python](https://www.python.org/) [Jupyter notebook](http://jupyter.or
 
 The aa_spectraltool Jupyter notebook uses several scientific Python libraries:
 
-* Libraries included in the [Anaconda Python Distribution](https://www.continuum.io/downloads)
+* Libraries included in the [Anaconda Python Distribution](https://www.anaconda.com/downloads)
  * [numpy](http://www.numpy.org/)
  * [scipy](https://www.scipy.org/)
  * [matplotlib](http://matplotlib.org/)
